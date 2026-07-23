@@ -194,3 +194,4 @@ A lightweight and robust image dehazing web application powered by a refined hyb
 
 ## 📄 License
 This project is released under the `Apache License 2.0`.
+
